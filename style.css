@@ -4,7 +4,7 @@ body {
 	background: #000000;
 	color: white;
 	font-family: Arial;
-	align: centre
+	text-align: centre;
 }
 main {
 	padding: 1em;
