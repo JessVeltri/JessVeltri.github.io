@@ -4,6 +4,7 @@ body {
 	background: #000000;
 	color: white;
 	font-family: Arial;
+	text-align: center;
 }
 main {
 	padding: 1em;
@@ -13,10 +14,7 @@ h1 {
 	margin: 0 0 1em 0;
 	text-align: center;
 }
-
-
-
 p {
 	margin: 0 0 1em 0;
-	text-align: center;
+
 }
